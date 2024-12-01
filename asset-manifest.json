@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deyaa-alakshar.githup.io/sample-ecommerce/static/css/main.163cb6a2.css",
+    "main.js": "/deyaa-alakshar.githup.io/sample-ecommerce/static/js/main.e2402252.js",
+    "index.html": "/deyaa-alakshar.githup.io/sample-ecommerce/index.html",
+    "main.163cb6a2.css.map": "/deyaa-alakshar.githup.io/sample-ecommerce/static/css/main.163cb6a2.css.map",
+    "main.e2402252.js.map": "/deyaa-alakshar.githup.io/sample-ecommerce/static/js/main.e2402252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.163cb6a2.css",
+    "static/js/main.e2402252.js"
+  ]
+}
