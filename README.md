@@ -9,6 +9,7 @@ Form Handling and Validation:
 Formik: Manages form state, validation, and submission.
 Zod: Provides robust schema validation.
 Potential Enhancements with React Query and Custom Hooks:
+Tailwind CSS: For rapid UI development and custom styling.
 
 While this project doesn't currently utilize React Query and custom hooks, incorporating these technologies could further enhance its performance, maintainability, and user experience:
 
@@ -20,3 +21,10 @@ Custom Hooks:
 Encapsulate reusable logic for common tasks, promoting code modularity.
 Improve code readability and maintainability.
 By incorporating React Query and custom hooks, this project could achieve even greater levels of performance, scalability, and user-friendliness.
+
+
+Note :
+To access the admin panle you should use this username and password
+
+username: admin@admin
+password: admin@admin
